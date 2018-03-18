@@ -1,0 +1,16 @@
+
+GLOBANT LOCAL:
+
+http://localhost:8080/auth/realms/Globant/protocol/openid-connect/auth
+http://localhost:8080/auth/realms/Globant/protocol/openid-connect/token
+globant-demo-app
+
+
+
+DELUXE:
+
+https://keycloak.dmlib.de/auth/realms/cps-wwd/protocol/openid-connect/auth
+https://keycloak.dmlib.de/auth/realms/cps-wwd/protocol/openid-connect/token
+
+cps-wwd.identifeye
+c110288a-e8f4-451a-b071-80e341ac5052
